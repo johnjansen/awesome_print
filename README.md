@@ -21,7 +21,7 @@ v2.0 will *require* Ruby v1.9.3 or later and Rails v3.0 or later.
     $ gem install awesome_print
 
     # Cloning the repository
-    $ git clone git://github.com/awesome-print/awesome_print.git
+    $ git clone git://github.com/johnjansen/awesome_print.git
 
 ### Usage ###
 
